@@ -106,7 +106,7 @@ You can personalize the following sections in the code:
 
 ## 🌟 **Screenshots**
 
-| Login Page                           | Credentials Page                      |
+| Login Page                           | Validation Page                       |
 |--------------------------------------|---------------------------------------|
 | ![Login](img/1.jpg) | ![Creds](img/2.jpg) |
 
